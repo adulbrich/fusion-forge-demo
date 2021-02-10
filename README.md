@@ -73,3 +73,8 @@ pip install jupyterlab
 ```bash
 jupyter lab ./kgforge-mappers/examples/notebooks/
 ```
+
+## References
+
+The code of the demo was inspired by [Basic Analysis of the Iris Data set Using Python
+](https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342).
