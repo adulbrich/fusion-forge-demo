@@ -1,4 +1,26 @@
-# Nexus Fusion and Forge Integration
+# Nexus Fusion and Forge Integration Demo
+
+This demo illustrates:
+
+- the creation of a Fusion Workflow,
+- adding input datasets directly in Fusion,
+- initializing the project context with the Forge,
+- registering datasets and activities in the Forge,
+- linking activities to steps in Fusion/
+
+## Happy Path
+
+1. In Nexus Fusion, create a new project in the Workflow app.
+2. Create three consecutive steps in your Workflow project: "Step 1. Data Analysis", "Step 2. Build Models", "Step 3. Validate".
+3. Add Input Dataset to "Step 1. Data Analysis".
+4. Clone this repository.
+5. Follow the Nexus Forge setup instructions below.
+6. Launch jupyter lab and open the `demo.ipynb` notebook.
+7. Configure the Forge with the right organization and project.
+8. Run the notebook.
+9. In Fusion, link the newly created activities to their corresponding step.
+10. ...
+11. Success!
 
 ## Installing Nexus Forge
 
