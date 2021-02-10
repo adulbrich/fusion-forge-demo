@@ -6,7 +6,11 @@ This demo illustrates:
 - adding input datasets directly in Fusion,
 - initializing the project context with the Forge,
 - registering datasets and activities in the Forge,
-- linking activities to steps in Fusion/
+- linking activities to steps in Fusion.
+
+Todo:
+
+- read the input dataset directly from Fusion
 
 ## Happy Path
 
