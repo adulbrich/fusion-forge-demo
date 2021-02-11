@@ -16,7 +16,7 @@ Todo:
 
 1. In Nexus Fusion, create a new project in the Workflow app.
 2. Create three consecutive steps in your Workflow project: "Step 1. Data Analysis", "Step 2. Build Models", "Step 3. Validate".
-3. Add Input Dataset to "Step 1. Data Analysis".
+3. Add Input Dataset to "Step 1. Data Analysis", choose `iris.csv` as the file.
 4. Clone this repository.
 5. Follow the Nexus Forge setup instructions below.
 6. Launch jupyter lab and open the `demo.ipynb` notebook.
