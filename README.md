@@ -26,6 +26,7 @@ Todo:
 10. ...
 11. Success!
 
+
 ## Installing Nexus Forge
 
 ### Install conda (optional)
@@ -62,16 +63,10 @@ git clone https://bbpcode.epfl.ch/code/dke/kgforge-mappers
 pip install ./kgforge-mappers
 ```
 
-### Install Jupyterlab
+### Install Additional Packages
 
 ```bash
-pip install jupyterlab
-```
-
-### Launch notebooks
-
-```bash
-jupyter lab ./kgforge-mappers/examples/notebooks/
+pip install jupyterlab matplotlib pandas sklearn numpy
 ```
 
 ## References
